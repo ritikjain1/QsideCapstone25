@@ -68,4 +68,17 @@
     
    4. Save and export your visualization. 
     
-  
+# Instructions for Using OpenStreetMap API
+## Understanding the OpenStreetMap API 
+The OpenStreetMap (OSM) API allows users to interact with OSM data, retrieve maps, query geolocation data, and contribute edits to the global map. 
+
+### OSM provides several APIs, including: 
+   - OSM REST API (for editing and retrieving raw data)
+   - Overpass API (for querying OSM data)
+   - Mapnik & Tile Server (for rendering OSM tiles)
+   - Nominatim (for geocoding and reverse geocoding)
+     
+
+## Installing OpenStreetMap API Locally
+   - Option 1: Access OpenStreetMap API via a Web Endpoint
+   - 
