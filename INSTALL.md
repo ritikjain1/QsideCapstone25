@@ -1,4 +1,4 @@
-#Instructions for Using Tableau
+# Instructions for Using Tableau
 ## Download Tableau
 >
    a. Go to the official Tableau website: https://www.tableau.com/
@@ -9,63 +9,63 @@
   [Image 1]
 ## Install Tableau 
   a. Open the downloaded installer (TableauDesktop-XX.exe for Windows or TableauDesktop-XX.dmg for Mac). 
->
+
   b. Follow the on-screen instructions to complete the installation.
->
+ 
   c. Once installed, open Tableau Desktop. 
 ## Load a Blank Map and Add CSV Files
-  a. Connect to Your CSV File 
-  >
-    1. Open Tableau and go to the "Connect" pane.
+ ### Connect to Your CSV File 
+  
+   1. Open Tableau and go to the "Connect" pane.
     
-    2. Click on "Text File" (since CSV is a text file). 
+   2. Click on "Text File" (since CSV is a text file). 
     
-    3. Select your CSV file and click Open. 
+   3. Select your CSV file and click Open. 
     
-    4. Tableau will automatically load the data into the Data Source tab. 
+   4. Tableau will automatically load the data into the Data Source tab. 
     
     [Image 2]
     [Image3]
-  b. Open a Blank Map 
+   ### Open a Blank Map 
   
-    1. Navigate to the "Sheet 1" tab. 
+   1. Navigate to the "Sheet 1" tab. 
     
-    2. Drag a geographical field (like "Country", "State", "City", or "Latitude/Longitude") onto the Columns or Rows shelf. 
+   2. Drag a geographical field (like "Country", "State", "City", or "Latitude/Longitude") onto the Columns or Rows shelf. 
     
-    3. If you have explicit Latitude and Longitude columns, drag Longitude to Columns and Latitude to Rows. 
+   3. If you have explicit Latitude and Longitude columns, drag Longitude to Columns and Latitude to Rows. 
     
-    4. If your dataset contains State or Country names, Tableau will recognize them as geographical fields. 
+   4. If your dataset contains State or Country names, Tableau will recognize them as geographical fields. 
     
-  c. Step 3: Adding Your Data to the Map 
+   ### Adding Your Data to the Map 
   
-    1. Dragging a Geographic Field (e.g., Country, State, City) to "Detail" (Marks card) 
+   1. Dragging a Geographic Field (e.g., Country, State, City) to "Detail" (Marks card) 
     
         - Will plot locations as points on the map. 
         
-    2. Dragging a Numeric Field (e.g., Sales, Population) to "Color" 
+   2. Dragging a Numeric Field (e.g., Sales, Population) to "Color" 
     
       - Will create a color-coded map where values correspond to different intensities of color. 
       
-    3. Dragging a Numeric Field (e.g., Sales, Population) to "Size" 
+   3. Dragging a Numeric Field (e.g., Sales, Population) to "Size" 
     
       - Will adjust the size of the points on the map based on the value of the field. 
       
-    4. Dragging a Categorical Field (e.g., Region, Category) to "Filter" 
+   4. Dragging a Categorical Field (e.g., Region, Category) to "Filter" 
     
       - Allows you to filter your map based on the selected category.  
       
-    5. Dragging a Numeric or Categorical Field to "Tooltip" 
+   5. Dragging a Numeric or Categorical Field to "Tooltip" 
     
       - Displays additional information when hovering over map points. 
       
   ## Finalizing and Customizing Your Map 
   
-    1. Adjust the "Map Layers" (available under Map → Map Layers) to toggle different background styles. 
+   1. Adjust the "Map Layers" (available under Map → Map Layers) to toggle different background styles. 
     
-    2. Click "Show Me" to see other visualization options based on your dataset. 
+   2. Click "Show Me" to see other visualization options based on your dataset. 
     
-    3. Use Filters to refine your data. 
+   3. Use Filters to refine your data. 
     
-    4. Save and export your visualization. 
+   4. Save and export your visualization. 
     
   
