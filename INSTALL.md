@@ -85,7 +85,7 @@ The OpenStreetMap (OSM) API allows users to interact with OSM data, retrieve map
    - Access Overpass API: https://overpass-turbo.eu/
    - Access Nominatim API: https://nominatim.openstreetmap.org/
    - Start making API requests directly from your browser.
-   ### Option 2: Installing Overpass API Locall
+   ### Option 2: Installing Overpass API Local
    - Install dependencies, for Linux/macOS, open a terminal and run
         1. sudo apt update && sudo apt install overpass-api
    - For Windows, use the WSL (Windows Subsystem for Linux) or install Docker
