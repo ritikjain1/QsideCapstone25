@@ -6,7 +6,7 @@
    b. Click on "Try Tableau for Free" if you don’t have a license, or download Tableau Desktop if you have an account. 
 >
    c. If you’re a student, you can get Tableau for free by applying for a Tableau for Students license at https://www.tableau.com/academic
-  [Image 1]
+  ![Image1](/Image1.png)
 ## Install Tableau 
   a. Open the downloaded installer (TableauDesktop-XX.exe for Windows or TableauDesktop-XX.dmg for Mac). 
 
@@ -24,8 +24,8 @@
     
    4. Tableau will automatically load the data into the Data Source tab. 
     
-    [Image 2]
-    [Image3]
+   ![Image2](/Image2.png)
+   ![Image3](/Image3.png)
    ### Open a Blank Map 
   
    1. Navigate to the "Sheet 1" tab. 
@@ -56,7 +56,8 @@
       
    5. Dragging a Numeric or Categorical Field to "Tooltip" 
     
-      - Displays additional information when hovering over map points. 
+      - Displays additional information when hovering over map points.
+   ![Image4](/Image4.png)
       
   ## Finalizing and Customizing Your Map 
   
@@ -132,6 +133,42 @@ The OpenStreetMap (OSM) API allows users to interact with OSM data, retrieve map
         1. import folium
         2. map = folium.Map(location=[40.7128, -74.0060], zoom_start=12)
         3. map.save("map.html")
+    
+# How to Install Excel
+## Download Microsoft Excel 
+- Go to the official Microsoft website: https://www.microsoft.com/
+- Sign in to your Microsoft account (or create one if you don’t have one)
+### Choose a Plan
+   - If you have a Microsoft 365 subscription, Excel is included. 
+   - If you need a one-time purchase, you can buy Excel separately.
+   - Students may be eligible for free access via Microsoft Education.
+Click "Install" to download the Excel setup file.
+![Image5](/Image5.png)
+
+### Install Microsoft Excel
+- Open the downloaded installer (Setup.exe for Windows or .dmg for Mac). 
+- Follow the on-screen instructions to complete the installation.
+- Once installed, open Excel and sign in with your Microsoft account.
+### Open and Load a CSV File in Excel
+- Launch Excel and click on "File" > "Open."
+- Select "Browse" and locate your .csv file.
+- If the data doesn’t format correctly, use the Text Import Wizard
+- Choose "Delimited" and click Next
+- Select the correct delimiter (comma, tab, etc.), then click Finish.
+- Your CSV file will be loaded into Excel.
+![Image6](/Image6.png)
+![Image7](/Image7.png)
+![Image8](/Image8.png)
+
+### Customizing Your Data in Excel
+- Use Filters: Click on the filter icon (under "Data" > "Filter") to sort and filter values.
+- Apply Conditional Formatting: Highlight values based on conditions.
+- Create Pivot Tables: Summarize and analyze data efficiently.
+- Use Formulas: Functions like SUM(), VLOOKUP(), and IF() help analyze data.
+- Save and Export: Save your file in .xlsx, .csv, or .pdf format.
+
+
+
 
 
 
