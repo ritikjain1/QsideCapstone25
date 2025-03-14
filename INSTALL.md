@@ -58,7 +58,42 @@ The OpenStreetMap (OSM) API allows users to interact with OSM data, retrieve map
    - Optimize performance: Configure caching for faster queries & Regularly update your OSM data
    - Exporting and Visualizing Data - Export OSM data using the osmconvert tool
         1. osmconvert us-latest.osm.pbf -o=us-latest.o5m
-   - Visualize map data in QGIS or Python (folium)
-        1. import folium
-        2. map = folium.Map(location=[40.7128, -74.0060], zoom_start=12)
-        3. map.save("map.html")
+           
+## Visualize map data in QGIS or Python (folium and osmnx)
+      ```
+      import folium
+      import osmnx as osm 
+      
+      #Once you have imported the necessary packages we can move onto methodology
+      #Define an area of interested
+      
+      area_1 = "Lansing, Michigan, USA"
+      
+      #We can create a graph of our area of interest using the graph_from_place() method 
+      
+      graph = osm.graph_from_place(area_1, network_type='all')
+      
+      #We can plot the graph using the plot_graph() method
+      
+      osm.plot_graph(osm.project_graph(graph))
+      
+      # If we want to get certain amenities such as hospitals in the area of interest
+      
+      tags = {'amenity': 'hospital'}
+      
+      hospitals = osm.features_from_place(area_1, tags)
+      
+      hospitals.plot()
+      
+      
+
+
+
+
+
+
+
+
+
+
+      
