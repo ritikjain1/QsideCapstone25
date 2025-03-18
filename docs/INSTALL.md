@@ -6,7 +6,7 @@ The OSMnx package is a python interface for accessing OpenStreetMap's API. We ca
 ## Introduction to OSMnx
 In this section we will set up and install the necessary elements needed to use the OSMNX package in accordance with the Folium package
 
-**You can follow along in the jupyter notebook file provided separately titled OSMAPI.ipynb**
+**You can follow along in the jupyter notebook file provided separately titled osmapi.ipynb in the directory /src/osmapi.ipynb**
 
       ```
       pip install osmnx folium
