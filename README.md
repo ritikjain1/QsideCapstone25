@@ -14,19 +14,15 @@ This project is part of a broader effort by the QSIDE Institute and its Act-NOW 
 
 # Repository Guide
 
-docs/: Contains 2 subfolders, package_name/ to separate module documentation from other content and images/ to seperate images like documentations or visulizations.
+src/: Contains 2 files currently, osmapi.ipynb as a jupyter notebook that can be followed along for the install instructions, and Demo_StatePopulation.twb.
 
-Examples/: A folder for datasets, making it clear they are for testing or demonstration purposes.
+docs/: Contains /images which is a folder to hold images relating to our deliverables, Tableau_OSM_Excel.md which is a reference for our team's usage, and INSTALL.md which is our install instructions.
 
-package_name/: A folder that includes all Python package-related files (module1.py, module2.py, etc.) into a dedicated package folder, an __init__.py file to define it as a Python package and a test/ subfolder for unit tests to keep them closely tied to the modules they test.
 
 README.md: For project overview and instructions.
 
 LICENSE.txt: A File for open-source license details
 
-Setup.py: For package installation and configuration.
-
-Makefile: To automate common tasks like cleaning, testing, or packaging.
 
 .gitignore: Exclude files and directories that do not need to be tracked in the repository.
 
