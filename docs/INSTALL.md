@@ -37,7 +37,8 @@ In this section we will set up and install the necessary elements needed to use 
    This produces a plot of the hospitals in Lansing. 
       
       
-
+## References
+[ChatGPT Prompt: "I am wondering how to use Open Street Map's api in jupyter?"](https://chatgpt.com)
 
 
 
