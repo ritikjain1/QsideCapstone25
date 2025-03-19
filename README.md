@@ -4,7 +4,7 @@ Welcome to the Act-NOW QSIDE student repository! This project leverages data sci
 
 # About the Project
 
-This project is part of a broader effort by the QSIDE Institute and its Act-NOW initiative to address tensions between communities of color and law enforcement, which uses quantative methods to focus on:
+This project is part of a broader effort by the QSIDE Institute and its Act-NOW initiative to address the following key points:
 
 1.) Identifying and analyzing key issues affecting chronic absenteeism
 
