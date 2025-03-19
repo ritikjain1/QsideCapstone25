@@ -6,11 +6,11 @@ Welcome to the Act-NOW: Community Health Index repository! This project leverage
 
 This project is part of a broader effort by the QSIDE Institute and its Act-NOW initiative to address tensions between communities of color and law enforcement, which uses quantative methods to focus on:
 
-1.) Identifying and analyzing key issues affecting community health.
+1.) Identifying and analyzing key issues affecting chronic absenteeism
 
-2.) Developing a standardized Community Health Index using metrics like mean income, health indicators, and employment rates.
+2.) Utilizing Tableau to create relevant data maps using unique toy data
 
-3.) Visualizing the data in a way that is accessible to both technical and non-technical stakeholders, including social justice activists and policymakers.
+3.) Visualizing the data in a way that is accessible to the public in an open source manner
 
 # Repository Guide
 
