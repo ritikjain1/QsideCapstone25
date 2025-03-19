@@ -1,6 +1,6 @@
 # Act-NOW: Community Health Index Project
 
-Welcome to the Act-NOW: Community Health Index repository! This project leverages data science to tackle critical social issues such as gun-related violence, opioid addiction, and truancy. By developing a Community Health Index, we aim to provide actionable insights to improve community well-being and foster collaboration between local communities and law enforcement.
+Welcome to the Act-NOW QSIDE student repository! This project leverages data science to tackle critical social issues such as the driving forces behidn chronic absenteeism. 
 
 # About the Project
 
