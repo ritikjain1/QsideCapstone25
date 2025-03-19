@@ -1,4 +1,4 @@
-# Act-NOW: Community Health Index Project
+# Act-NOW: Data Mapping Project
 
 Welcome to the Act-NOW QSIDE student repository! This project leverages data science to tackle critical social issues such as the driving forces behind chronic absenteeism. 
 
