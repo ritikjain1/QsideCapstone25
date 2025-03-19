@@ -1,6 +1,6 @@
 # Act-NOW: Community Health Index Project
 
-Welcome to the Act-NOW QSIDE student repository! This project leverages data science to tackle critical social issues such as the driving forces behidn chronic absenteeism. 
+Welcome to the Act-NOW QSIDE student repository! This project leverages data science to tackle critical social issues such as the driving forces behind chronic absenteeism. 
 
 # About the Project
 
