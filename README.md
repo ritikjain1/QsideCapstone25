@@ -21,7 +21,7 @@ This project is part of a broader effort by the QSIDE Institute and its Act-NOW 
 
 [README.md](README.md): For project overview and instructions.
 
-[LICENSE.txt](LICENSE.txt)LICENSE.txt: A File for open-source license details
+[LICENSE](LICENSE)LICENSE.txt: A File for open-source license details
 
 
 [.gitignore](.gitignore).gitignore: Exclude files and directories that do not need to be tracked in the repository.
