@@ -1,4 +1,4 @@
-# Instructions for Using OpenStreetMap API (The OSMnx Package)
+# Instructions for Using OSMnx Package (OSM API)
 ## Utilizing the OSMnx package
 The OSMnx package is a python interface for accessing OpenStreetMap's API. We can use this package concurrently with the Folium package to effectively use this tool for our project. 
 
