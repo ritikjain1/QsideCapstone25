@@ -14,17 +14,17 @@ This project is part of a broader effort by the QSIDE Institute and its Act-NOW 
 
 # Repository Guide
 
-src/: Contains 2 files currently, osmapi.ipynb as a jupyter notebook that can be followed along for the install instructions, and Demo_StatePopulation.twb.
+[src](/src): Contains 2 files currently, osmapi.ipynb as a jupyter notebook that can be followed along for the install instructions, and Demo_StatePopulation.twb.
 
-docs/: Contains /images which is a folder to hold images relating to our deliverables, Tableau_OSM_Excel.md which is a reference for our team's usage, and INSTALL.md which is our install instructions.
-
-
-README.md: For project overview and instructions.
-
-LICENSE.txt: A File for open-source license details
+[docs](/docs): Contains /images which is a folder to hold images relating to our deliverables, Tableau_OSM_Excel.md which is a reference for our team's usage, and INSTALL.md which is our install instructions.
 
 
-.gitignore: Exclude files and directories that do not need to be tracked in the repository.
+[README.md](README.md): For project overview and instructions.
+
+[LICENSE.txt](LICENSE.txt)LICENSE.txt: A File for open-source license details
+
+
+[.gitignore](.gitignore).gitignore: Exclude files and directories that do not need to be tracked in the repository.
 
 # License
 
