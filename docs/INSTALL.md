@@ -6,7 +6,7 @@ The OSMnx package is a python interface for visualizations and analysis of OpenS
 ## Introduction to OSMnx
 In this section we will set up and install the necessary elements needed to properly utilize the OSMNX package.
 
-**You can follow along in the jupyter notebook file provided separately titled osmapi.ipynb in the [following directory: ](/src/osmapi.ipynb)**
+**You can follow along in the jupyter notebook file provided separately titled osmapi.ipynb in the [following directory: ](/src/Osmnx.ipynb)**
 
       ```
       pip install osmnx folium
