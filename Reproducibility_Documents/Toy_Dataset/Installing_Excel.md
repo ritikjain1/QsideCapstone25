@@ -3,7 +3,7 @@
 1.  Go to the official Microsoft website:
     <https://www.microsoft.com/en-us/microsoft-365/excel>
 
-![](/media/image6.png){width="6.5in" height="3.25in"}
+![Microsoft_Excel_Homepage](/Reproducibility_Documents/images/Installing_Excel_imgs/Microsoft_Excel_Homepage.png)
 
 2.  Sign in to your Microsoft account (or create one if you don't have
     one).
@@ -13,8 +13,7 @@
         -   You will follow the prompts given to you by Microsoft,
             starting by selecting the account you wish to log into.
 
-![](/media/image7.png){width="3.0416666666666665in"
-height="2.6127143482064743in"}
+        ![Microsoft_Excel_Signin](/Reproducibility_Documents/images/Installing_Excel_imgs/Microsoft_Excel_Signin.png)
 
 -   Creating a Microsoft account:
 
@@ -22,8 +21,7 @@ height="2.6127143482064743in"}
         your Microsoft account starting by inputting an email to be
         associated with the Microsoft account.
 
-![](/media/image8.png){width="3.0520833333333335in"
-height="2.333082895888014in"}
+        ![Microsoft_Excel_CreateAcc](/Reproducibility_Documents/images/Installing_Excel_imgs/Microsoft_Excel_CreateAcc.png)
 
 3.  Choose a plan:\
     i. If you have a Microsoft 365 subscription, Excel is included.\
@@ -33,7 +31,7 @@ height="2.333082895888014in"}
 
 4.  Click \"Install\" to download the Excel setup file.
 
-![](/media/image9.png){width="6.5in" height="3.2604166666666665in"}
+![Microsoft_Excel_Download_Page](/Reproducibility_Documents/images/Installing_Excel_imgs/Microsoft_Excel_Download_Page.png)
 
 -   Click on the purple square to install for Windows
 
@@ -42,13 +40,11 @@ height="2.333082895888014in"}
 5.  Open the downloaded installer (Setup.exe for Windows or .dmg for
     Mac). \*Note the install images are MacOS installation.
 
-![](/media/imagea.png){width="4.43078302712161in"
-height="2.166778215223097in"}
+![Microsoft_Excel_Download_PKG](/Reproducibility_Documents/images/Installing_Excel_imgs/Microsoft_Excel_Download_PKG.png)
 
 6.  Follow the on-screen instructions to complete the installation.
 
-![](/media/imageb.png){width="4.541666666666667in"
-height="3.289796587926509in"}
+![Microsoft_Excel_Install_Instruct1](/Reproducibility_Documents/images/Installing_Excel_imgs/Microsoft_Excel_Install_Instruct1.png)
 
 -   You will click the "Continue" button to progress through the
     on-screen instructions
@@ -61,18 +57,18 @@ height="3.289796587926509in"}
     download screen below. This shows that Microsoft Excel is now being
     downloaded onto your computer.
 
-![](/media/imagec.png){width="4.71875in" height="3.365133420822397in"}
+![Microsoft_Excel_Install_Instruct2](/Reproducibility_Documents/images/Installing_Excel_imgs/Microsoft_Excel_Install_Instruct2.png)
 
 -   Once you get the screen below, you can click the "Close" button and
     open Microsoft Excel Application
 
-![](/media/imaged.png){width="4.645833333333333in"
-height="3.3503608923884514in"}
+![Microsoft_Excel_Install_Instruct3](/Reproducibility_Documents/images/Installing_Excel_imgs/Microsoft_Excel_Install_Instruct3.png)
 
 7.  Once installed, locate your Excel application and sign in with your
     Microsoft account.
 
-![](/media/imagee.png){width="6.5in" height="2.8125in"}
+![Excel_Signin](/Reproducibility_Documents/images/Installing_Excel_imgs/Excel_Signin.png)
+
 
 To make sure your Excel is installed correctly, please follow the below
 instructions to open a practice excel sheet.
@@ -82,48 +78,51 @@ instructions to open a practice excel sheet.
 
 2.  Launch Excel and click on \"File\" \> \"Open.\"
 
-![](/media/imagef.png){width="6.5in" height="2.8333333333333335in"}
+![Excel_Open](/Reproducibility_Documents/images/Installing_Excel_imgs/Excel_Open.png)
+
 
 3.  Select the location of the .csv file.
 
-![](/media/image10.png){width="4.895833333333333in"
-height="3.97001968503937in"}
+    ![Excel_Location](/Reproducibility_Documents/images/Installing_Excel_imgs/Excel_Location.png)
+
 
 4.  Select the Sample_Excel.xlsx file and click "Open"
 
-![](/media/image11.png){width="5.954838145231846in"
-height="2.9583333333333335in"}
+    ![Excel_Open_Sample](/Reproducibility_Documents/images/Installing_Excel_imgs/Excel_Open_Sample.png)
+
 
 5.  Your CSV file will be loaded into Excel. If everything was done
     correctly, the Excel file should look like this:
-    ![](/media/image12.png){width="6.25in"
-    height="3.8854166666666665in"}
+    ![Excel_Sample_SS](/Reproducibility_Documents/images/Installing_Excel_imgs/Excel_Sample_SS.png)
 
-Creating New Excel files
+
+<ins>Creating New Excel files</ins>
 
 1.  To create a new Excel file, you click on the "New" option found on
     the Excel homepage
 
-![](/media/image17.png){width="6.5in" height="2.9375in"}
+    ![Excel_New](/Reproducibility_Documents/images/Installing_Excel_imgs/Excel_New.png)
+
 
 2.  Then click on the "Blank Workbook":
 
-![](/media/image18.png){width="6.5in"
-height="3.2083333333333335in"}\*You can click any of the provided Excel
+    ![Excel_New_BlankWorkbook](/Reproducibility_Documents/images/Installing_Excel_imgs/Excel_New_BlankWorkbook.png)
+\*You can click any of the provided Excel
 template, however, for creating the Toy Dataset, you will need to select
 "Blank Workbook"
 
-a.  You can then add multiple sheets, renaming them for your own needs
-    as well![](/media/image19.png){width="3.6063123359580054in"
-    height="3.4791688538932632in"}
+    a.  You can then add multiple sheets, renaming them for your own needs
+    as well
+    ![Excel_Add_Sheet](/Reproducibility_Documents/images/Installing_Excel_imgs/Excel_Add_Sheet.png)
 
-b.  To rename a sheet, you should two finger click on the sheet tab,
+
+    b.  To rename a sheet, you should two finger click on the sheet tab,
     then select "Rename"
 
-![](/media/image1a.png){width="3.5579615048118987in"
-height="2.7050853018372703in"}
+    ![Excel_Rename_Sheet](/Reproducibility_Documents/images/Installing_Excel_imgs/Excel_Rename_Sheet.png)
 
-Exporting Excel files
+
+<ins>Exporting Excel files</ins>
 
 Exporting these Excel files will be important when it comes to creating
 the toy data excel sheet and visualizing it on Tableau.
@@ -131,20 +130,21 @@ the toy data excel sheet and visualizing it on Tableau.
 1.  To export an excel file, you must go to File and click on "Save
     As\..."
 
-![](/media/image1b.png){width="4.0in" height="3.333332239720035in"}
+    ![Excel_SaveAs](/Reproducibility_Documents/images/Installing_Excel_imgs/Excel_SaveAs.png)
+
 
 2.  Once you click "Save As\...", you will be prompted with the popup
     window shown below. Fill in the file name and where you would like
     the file to be saved to.
 
-![](/media/image15.png){width="5.635416666666667in"
-height="2.6099923447069115in"}
+    ![Excel_SaveAs_Naming](/Reproducibility_Documents/images/Installing_Excel_imgs/Excel_SaveAs_Naming.png)
+
 
 3.  Once you have filled in the "Save As" and "Where" options, you can
     click "Save"
 
-![](/media/image1c.png){width="5.22916447944007in"
-height="2.387985564304462in"}
+    ![Excel_SaveAs_Saving](/Reproducibility_Documents/images/Installing_Excel_imgs/Excel_SaveAs_Saving.png)
+
 
 Now that you have Excel downloaded, you can use the following sources to
 learn more about the capabilities of Excel and practice your Excel
