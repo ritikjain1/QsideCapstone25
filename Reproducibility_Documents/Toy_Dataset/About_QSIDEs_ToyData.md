@@ -1,4 +1,4 @@
-About QSIDE's Toy Data
+# About QSIDE's Toy Data
 
 This is the link to access our [toy
 data](https://michiganstate.sharepoint.com/:x:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Toy_Dataset/Student_Toy_data.xlsx?d=w69dfa650517a49639e6bc556a33a0a96&csf=1&web=1&e=SZLrf6).
@@ -39,7 +39,7 @@ files" found within our
 to export and save it locally. The toy dataset Excel file was then used
 to extract the GeoIDs and mapping in Tableau.
 
-[File Details]{.underline}
+<ins>File Details</ins>
 
 Below are the 6 different Excel sheets as well as some information on
 the data included within each sheet. Regarding the locations included in
