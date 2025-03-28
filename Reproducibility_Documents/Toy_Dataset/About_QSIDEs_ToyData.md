@@ -20,8 +20,7 @@ dataset were discussed prior with our community partners, listed in the
 Map](https://docs.google.com/spreadsheets/d/1JXQa1UJz7rqCv2j2kmfTo1-sv1kV0tm0Cg5psaEIetI/edit?usp=sharing)
 under the "School Presence Data Map" sheet.
 
-![](/media/image.png){width="4.211434820647419in"
-height="3.718751093613298in"}
+![About_QSIDE_ToyData](Reprocucibility_Documents/Toy_dataset/images/About_QSIDE_ToyData/About_QSIDE_ToyData.png)
 
 We used this outline to structure the sheets and variables for our toy
 dataset. Through multiple meetings with community partners, we refined
