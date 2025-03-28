@@ -1,0 +1,122 @@
+# About QSIDE's Toy Data
+
+This is the link to access our toy data. LINK!
+
+We followed the *Installing_Excel.docx* LINK! to create a new Excel sheet for our toy data. We created multiple sheets to maintain organization with all the data we were generating.
+
+Our toy dataset consists of five different Excel sheets, covering:
+- Student demographics
+- Metadata
+- Individual school trajectories
+- School demographics
+- Student school presence
+
+It includes 25 fake students with attributes. Additionally, it incorporates data from six real Illinois schools and 80 fake excused absence letters to mimic real-world attendance records. All the variables included in our toy dataset were discussed with our community partners and are listed in the *MSU - ACT NOW Data Map* LINK! under the *School Presence Data Map* sheet.
+
+IMG!
+
+We used this outline to structure the sheets and variables for our toy dataset. Through multiple meetings with community partners, we refined and adjusted the data to better fit our needs.
+
+With a clear framework of required variables and values, we leveraged ChatGPT to generate randomized data for most columns and sheets. A document detailing the prompts used is available here. Student addresses and real Illinois schools were manually generated.
+
+Once the toy dataset was created, we followed the *Exporting Excel files* guide found in *Installing_Excel.docx* to export and save it locally. The toy dataset Excel file was then used to extract the GeoIDs and mapping in Tableau.
+
+---
+
+## File Details
+
+Below are the six different Excel sheets, along with information on the data included within each sheet. Regarding the locations included in the toy dataset, we focused on three cities within Illinois: *Springfield, Decatur, and Peoria*.
+
+### **1. StudentDemographics**
+This sheet provides information about the students' personal data. There are 25 unique students listed.
+
+#### **Columns:**
+- **StudentID** - Unique identifier for each student.
+- **StudentFirstName** - First name of the student.
+- **StudentLastName** - Last name of the student.
+- **Race/Ethnicity** - Categories: *African American, Asian, Caucasian, Hispanic.*
+- **GenderAssignedAtBirth** - Categories: *Male, Female.*
+- **GenderIdentity** - Includes multiple identities such as *Non-Binary, Transgender, Two-Spirit,* etc.
+- **Address** - Real Illinois homes (found via Zillow).
+- **City** - One of *Springfield, Decatur, Peoria.*
+- **State** - *IL*.
+- **ZipCode** - Five-digit postal code.
+- **Birthdate** - Used to analyze student ages.
+- **NumOfSiblings** - Number of siblings each student has.
+- **SES (Socioeconomic Status)** - Categories: *High, Middle, Low.*
+- **StableLivingSituation** - Scale from *1 (Not Stable) to 5 (Very Stable).*
+- **FoodInsecure** - Scale from *1 (Not Insecure) to 5 (Very Insecure).*
+
+---
+
+### **2. ID_MetaData**
+This sheet contains a list of potential values for the *StudentID* column in *StudentDemographics* to ensure each identifier is unique and unchanging.
+
+---
+
+### **3. IndividualSchoolTrajectory**
+This sheet provides information on students' educational paths.
+
+#### **Columns:**
+- **StudentID** - References the *StudentDemographics* sheet.
+- **ExpectedGraduationDate** - Years range from *2024-2027.*
+- **CourseOfStudy** - Includes *Science, Engineering, Business, Arts, Math, Literature, Technology.*
+- **GPA** - Scale of *4.0.*
+- **GradeDistribution (A-F)** - Total of 6 letter grades assigned per student.
+- **PhysicalDisabilityStatus** - Includes *Visual impairment, Hearing impairment, Physical Disability.*
+- **Neurodiverse/Learning Disability** - Includes *ADHD, Dyslexia, Autism.*
+- **IEP (Y/N)** - Indicates if a student is on an *Individual Educational Plan.*
+
+---
+
+### **4. SchoolDemographics**
+This sheet provides details on six real Illinois schools. While school names and addresses are real, all other values are artificial.
+
+#### **Columns:**
+- **SchoolID** - Unique numerical identifier for each school.
+- **SchoolAddress** - Full address of the school.
+- **City** - One of *Springfield, Decatur, Peoria.*
+- **State** - *IL.*
+- **ZipCode** - Five-digit postal code.
+- **SchoolDistrict** - Numeric identifier for public school districts.
+- **SchoolType** - *Public, Private, Charter, Magnet.*
+- **EducationLevel** - *PreK-8, 6-8, 9-12.*
+- **SchoolName** - Full name of the school.
+- **TotalSchoolDays** - Number of school days per academic year.
+- **SchoolSize** - Total student enrollment.
+- **Student:TeacherRatio** - Ratio (e.g., *18:1*).
+- **YearOpened** - Year the school was established.
+- **Four-YearGraduationRate (Overall & By Race/Gender)** - Graduation rate percentages.
+- **Five-YearGraduationRate (Overall & By Race/Gender)** - Five-year graduation percentages.
+- **RankedInDistrict** - School's ranking within its district.
+- **RankedInState** - School's ranking within Illinois.
+- **ACTAverage** - Average ACT score.
+- **SATAverage** - Average SAT score.
+
+---
+
+### **5. StudentSchoolPresence**
+This sheet details student attendance, absences, and tardies. It includes 80 AI-generated fake absence notes.
+
+#### **Columns:**
+- **StudentID** - References *StudentDemographics.*
+- **SchoolID** - References *SchoolDemographics.*
+- **DaysPresent** - Number of days attended.
+- **ExcusedAbsences** - Number of valid absences.
+- **UnexcusedAbsences** - Number of unapproved absences.
+- **Tardies** - Number of times late.
+- **DatesAbsent** - Semicolon-separated list of absence dates.
+- **ReasonGiven (Y/N)** - Whether a reason was provided.
+- **AbsenceNote** - AI-generated unique excuse notes.
+- **ReasonCategory** - Categories: *Medical, Athletics, Family, Appointment, Mental Health, Transportation.*
+
+---
+
+### **6. StudentSchoolPresenceUpdated**
+This is a modified version of *StudentSchoolPresence*, where the *ReasonCategory* column is split into separate columns for easier processing.
+
+---
+
+## Summary
+This toy dataset is structured to provide realistic yet synthetic student and school data. It allows for analysis of student demographics, educational trajectories, and attendance patterns, while ensuring privacy and ethical data generation.
+
