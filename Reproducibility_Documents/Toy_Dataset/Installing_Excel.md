@@ -1,4 +1,4 @@
-Installing Microsoft Excel
+# Installing Microsoft Excel
 
 1.  Go to the official Microsoft website:
     <https://www.microsoft.com/en-us/microsoft-365/excel>
