@@ -33,11 +33,11 @@ records.
 
 Install Instructions:
 
-[Installing_Excel.docx](https://michiganstate.sharepoint.com/:w:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Toy_Dataset/Installing_Excel.docx?d=wdc0506b050f24cf5827ef242fee686c3&csf=1&web=1&e=Ibozif)
+[Installing_Excel.md](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/Toy_Dataset/Installing_Excel.md)
 
-[Sample_Excel.xlsx](https://michiganstate.sharepoint.com/:x:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Toy_Dataset/Sample_Excel.xlsx?d=wc5dfca40a56c4996a52ce1a0148600e4&csf=1&web=1&e=JLuAaY)
+[Sample_Excel.xlsx](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/Toy_Dataset/Sample_Excel.xlsx)
 
-[ChatGPT_Setup.docx](https://michiganstate.sharepoint.com/:w:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Toy_Dataset/ChatGPT_Setup.docx?d=w82b03c52807a4f64a68721c979ef55ec&csf=1&web=1&e=nqMv0v)
+[ChatGPT_Setup.md](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/Toy_Dataset/ChatGPT_Setup.md)
 
 Reproducibility Documents:
 
@@ -45,11 +45,10 @@ Reproducibility Documents:
 included in Qside's toy data. The process is still the same when
 creating a toy dataset.\*
 
-> [About_QSIDEs_ToyData.docx](https://michiganstate.sharepoint.com/:w:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Toy_Dataset/About_QSIDEs_ToyData.docx?d=w1c49109c774c40e19b0a9e191d09ebfb&csf=1&web=1&e=C3jQyh)
 
-[Chatgpt_Prompts.docx](https://michiganstate.sharepoint.com/:w:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Toy_Dataset/Chatgpt_Prompts.docx?d=w73865d9c968645f3b81d68fb55af4bfd&csf=1&web=1&e=n0HvET)
+[Chatgpt_Prompts.md](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/Toy_Dataset/About_QSIDEs_ToyData.md)
 
-[Student_Toy_data.xlsx](https://michiganstate.sharepoint.com/:x:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Toy_Dataset/Student_Toy_data.xlsx?d=w69dfa650517a49639e6bc556a33a0a96&csf=1&web=1&e=wjWtAM)
+[Student_Toy_data.xlsx](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/Toy_Dataset/Student_Toy_data.xlsx)
 
 The toy dataset figures are used throughout various stages of our
 project to illustrate data organization and analysis. Specifically,
@@ -88,19 +87,19 @@ locations on a Tableau map.
 
 Install Instructions:
 
-[Installing_USCensus_API.docx](https://michiganstate.sharepoint.com/:w:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/US_Census_API/Installing_USCensus_API.docx?d=w24fb23823330485897f4010cf6317797&csf=1&web=1&e=rth3IF)
+[Testing_US_Census_API.md](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/US_Census_API/Testing_US_Census_API.md)
 
-[Test_USCensus_API.ipynb](https://michiganstate.sharepoint.com/:u:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/US_Census_API/Installing_USCensus_API.ipynb?csf=1&web=1&e=iOmOnS)
+[Installing_USCensus_API.ipynb](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/US_Census_API/Installing_USCensus_API.ipynb)
 
 Reproducibility Documents:
 
-[Instructions_using_API_ToyData.docx](https://michiganstate.sharepoint.com/:w:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/US_Census_API/Instructions_using_API_ToyData.docx?d=wb362f29c6e48491db88aa5437444ef9c&csf=1&web=1&e=fM7dTh)
+[Instructions_using_API_ToyData.md](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/US_Census_API/Instructions_using_API_ToyData.md)
 
-> [USCensus_APICode.ipynb](https://michiganstate.sharepoint.com/:u:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/US_Census_API/USCensus_APICode.ipynb?csf=1&web=1&e=zwMeCJ)
+[USCensus_APICode.ipynb](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/US_Census_API/USCensus_APICode.ipynb)
 
-[Student_Toy_data.xlsx](https://michiganstate.sharepoint.com/:x:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Toy_Dataset/Student_Toy_data.xlsx?d=w69dfa650517a49639e6bc556a33a0a96&csf=1&web=1&e=wjWtAM)
+[Student_Toy_data.xlsx](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/US_Census_API/Student_Toy_data.xlsx)
 
-[School_GEOID_Mapping.xlsx](https://michiganstate.sharepoint.com/:x:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/US_Census_API/School_GEOID_Mapping.xlsx?d=w150c6f9c082248128036b32da6ad0cb0&csf=1&web=1&e=XpIfir)
+[School_GEOID_Mapping.xlsx](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/US_Census_API/School_GEOID_Mapping.xlsx)
 
 The values gained from running these codes and adding onto our Toy Data
 set are used to help map our toy data geographically onto Tableau.
@@ -129,15 +128,15 @@ integrating our own dataset for analysis.
 
 Install Instructions:
 
-[Installing_Tableau.docx](https://michiganstate.sharepoint.com/:w:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Tableau/Installing_Tableau.docx?d=w7d347047f7124eb7a46f7fe31214c524&csf=1&web=1&e=NoUXyN)
+[Installing_Tableau.md](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/Tableau/Installing_Tableau.md)
 
 Reproducibility Documents:
 
-[Instructions_Tableau_State_Population.docx](https://michiganstate.sharepoint.com/:w:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Tableau/Instructions_Tableau_State_Population.docx?d=w3df859ceac504313a95a8301dbaa01e5&csf=1&web=1&e=Y61m1y)
+[Instructions_Tableau_State_Population.md](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/Tableau/Instructions_Tableau_State_Population.md)
 
-[demographic_acs_tract_2018-2022.csv](https://michiganstate.sharepoint.com/:x:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Tableau/demographic_acs_tract_2018-2022.csv?d=w3bb88045ad2a41768d21556d6a8445e5&csf=1&web=1&e=M9hxk5)
+[demographic_acs_tract_2018-2022.csv](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/Tableau/demographic_acs_tract_2018-2022.xlsx)
 
-[Shapefiles-20250212T213902Z-001.zip](https://michiganstate.sharepoint.com/:u:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Tableau/Shapefiles-20250212T213902Z-001.zip?csf=1&web=1&e=kTcv9J)
+[Shapefiles-20250212T213902Z-001.zip](https://github.com/ritikjain1/QsideCapstone25/tree/main/Reproducibility_Documents/Tableau/Shapefiles)
 
 [Demo_StatePopulation_TableauPublic](https://public.tableau.com/app/profile/gabriella.stickney/viz/Demo_StatePopulation/Sheet1)
 
@@ -159,18 +158,18 @@ trends in student absences, and incorporate relevant metrics.
 
 Install Instructions:
 
-[Installing_Tableau.docx](https://michiganstate.sharepoint.com/:w:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Tableau/Installing_Tableau.docx?d=w7d347047f7124eb7a46f7fe31214c524&csf=1&web=1&e=NoUXyN)
+[Installing_Tableau.docx](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/Tableau/Installing_Tableau.md)
 
 Reproducibility Documents:
 
-[Instructions_Linking_ToyData_Tableau.docx](https://michiganstate.sharepoint.com/:w:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Toy_Data_TableauSheets/Instructions_Linking_ToyData_Tableau.docx?d=w062efab906d044eda99fa6655a6f7855&csf=1&web=1&e=LgPGqP)
+[Instructions_Linking_ToyData_Tableau.docx](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/Tableau/Instructions_Tableau_State_Population.md)
 
 [tl_2023_17_tabblock20
-folder](https://michiganstate.sharepoint.com/:f:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Toy_Data_TableauSheets/tl_2023_17_tabblock20?csf=1&web=1&e=7DQTca)
+folder](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/Toy_Data_TableauSheet/Download_tl_2023_17_tabblock20.md)
 
-[Student_Toy_data.xlsx](https://michiganstate.sharepoint.com/:x:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Toy_Dataset/Student_Toy_data.xlsx?d=w69dfa650517a49639e6bc556a33a0a96&csf=1&web=1&e=wjWtAM)
+[Student_Toy_data.xlsx](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/US_Census_API/Student_Toy_data.xlsx)
 
-[School_GEOID_Mapping.xlsx](https://michiganstate.sharepoint.com/:x:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Toy_Data_TableauSheets/School_GEOID_Mapping.xlsx?d=wf92676f0906d4231be0cdf2b9916f7bc&csf=1&web=1&e=bq25I5)
+[School_GEOID_Mapping.xlsx](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/US_Census_API/School_GEOID_Mapping.xlsx)
 
 [School_Mapping_TableauPublic](https://public.tableau.com/app/profile/ritik.jain1728/viz/Toydataset_17429213767350/Sheet2?publish=yes)
 
