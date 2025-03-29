@@ -6,9 +6,9 @@ This simple tableau sheet displays the population of each state.
 1.  Loading a Blank Map and Adding CSV Files and Shape Files
 
     -   Download
-        [demographic_acs_tract_2018-2022](https://michiganstate.sharepoint.com/:x:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Tableau/demographic_acs_tract_2018-2022.csv?d=w3bb88045ad2a41768d21556d6a8445e5&csf=1&web=1&e=HC2n4r)
+        [demographic_acs_tract_2018-2022](/Reproducibility_Documents/Tableau/demographic_acs_tract_2018-2022.xlsx)
         and
-        [Shapefiles-20250212T213902Z-001.zip](https://michiganstate.sharepoint.com/:u:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Tableau/Shapefiles-20250212T213902Z-001.zip?csf=1&web=1&e=8bATvS)
+        [Shapefiles-20250212T213902Z-001.zip](/Reproducibility_Documents/Tableau/Shapefiles/Download_ShapeFile.md)
         which was provided
 
 
@@ -21,7 +21,7 @@ This simple tableau sheet displays the population of each state.
   ![TextFile](/Reproducibility_Documents/Tableau/images/Tableau_StatePop_imgs/TextFile.png)
 
 -   Select the CSV file, in this demo, please open
-    [demographic_acs_tract_2018-2022](https://michiganstate.sharepoint.com/:x:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Tableau/demographic_acs_tract_2018-2022.csv?d=w3bb88045ad2a41768d21556d6a8445e5&csf=1&web=1&e=HC2n4r)
+    [demographic_acs_tract_2018-2022](/Reproducibility_Documents/Tableau/demographic_acs_tract_2018-2022.xlsx)
     and click Open.
     
       ![Select_Demographic_File](/Reproducibility_Documents/Tableau/images/Tableau_StatePop_imgs/Select_Demographic_File.png)
