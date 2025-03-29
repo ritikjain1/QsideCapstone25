@@ -14,15 +14,13 @@ This project is part of a broader effort by the QSIDE Institute and its Act-NOW 
 
 # Repository Guide
 
-[src](/src): Contains 2 files currently, osmapi.ipynb as a jupyter notebook that can be followed along for the install instructions, and Demo_StatePopulation.twb.
+[Reproducibility_Documents](/Reproducibility_Documents): Contains all of the markdown files and data files that are needed to reproduce each of our main components within our final project. Inside the Reproducibility_Documents folder, there are 4 subfolders, broken down by the 4 main componenets of our project.
 
-[docs](/docs): Contains /images which is a folder to hold images relating to our deliverables, Tableau_OSM_Excel.md which is a reference for our team's usage, and INSTALL.md which is our install instructions.
-
+[docs](/docs): Contains /images which is a folder to hold images relating to our Tableau_OSM_Excel.md, Tableau_OSM_Excel.md which are our install instructions, and our OSMNX_Tutorial folder, which contains our documents for our SCHOLAR Tutorial.
 
 [README.md](README.md): For project overview and instructions.
 
 [LICENSE](LICENSE): A File for open-source license details
-
 
 [.gitignore](.gitignore): Exclude files and directories that do not need to be tracked in the repository.
 
