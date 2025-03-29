@@ -158,7 +158,7 @@ trends in student absences, and incorporate relevant metrics.
 
 Install Instructions:
 
-[Installing_Tableau.docx](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/Tableau/Installing_Tableau.md)
+[Installing_Tableau.md](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/Tableau/Installing_Tableau.md)
 
 Reproducibility Documents:
 
