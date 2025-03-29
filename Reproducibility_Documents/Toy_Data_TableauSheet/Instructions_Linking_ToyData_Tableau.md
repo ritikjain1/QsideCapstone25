@@ -14,7 +14,7 @@ downloaded to your computer:
 [School_GEOID_Mapping.xlsx](/Reproducibility_Documents/Toy_Data_TableauSheet/School_GEOID_Mapping.xlsx)
 
 [tl_2023_17_tabblock20
-folder](https://michiganstate.sharepoint.com/:f:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Toy_Data_TableauSheets/tl_2023_17_tabblock20?csf=1&web=1&e=7DQTca)
+folder](Reproducibility_Documents/Toy_Data_TableauSheet/Download_tl_2023_17_tabblock20.md)
 
 **Step 1: Adding our data sources into Tableau**
 
