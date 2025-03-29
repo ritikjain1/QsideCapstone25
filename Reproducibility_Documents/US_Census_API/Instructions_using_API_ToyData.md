@@ -132,9 +132,9 @@ The code works mainly the same as the first 2 code scripts but here are the key 
 
 2. Verify the Results 
 
-a. Open the Excel file (School_Lat_Lon.xlsx) and check if latitude and longitude values were extracted correctly. 
+    a. Open the Excel file (School_Lat_Lon.xlsx) and check if latitude and longitude values were extracted correctly. 
 
-b. If any values appear as "No Match", check If the address is formatted correctly or If the Census API recognizes the location. 
+    b. If any values appear as "No Match", check If the address is formatted correctly or If the Census API recognizes the location. 
 
 3. Load the Data into Tableau 
 
