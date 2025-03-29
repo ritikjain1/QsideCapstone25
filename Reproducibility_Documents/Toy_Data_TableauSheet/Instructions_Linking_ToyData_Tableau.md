@@ -40,32 +40,32 @@ other files.
 
 ![Add_on_ConnectionPane](/Reproducibility_Documents/Toy_Data_TableauSheet/images/Instructions_Linking_ToyData_Tableau_imgs/Add_on_ConnectionPane.png)
 
-a.  Adding the School_GEOID_Mapping.xlsx
+a.  Adding the "School_GEOID_Mapping.xlsx"
 
-    - Click on "Add"
+- Click on "Add"
 
-    - Select the "Microsoft Excel" option
+- Select the "Microsoft Excel" option
 
-    - Navigate to where you have the School_GEOID_Mapping.xlsx saved
+- Navigate to where you have the School_GEOID_Mapping.xlsx saved
       onto your computer
 
-    - Select School_GEOID_Mapping.xlsx
+- Select School_GEOID_Mapping.xlsx
 
-    - Click \"Open"
+- Click \"Open"
 
 ![Add_GEOID_Excel](/Reproducibility_Documents/Toy_Data_TableauSheet/images/Instructions_Linking_ToyData_Tableau_imgs/Add_GEOID_Excel.png)
 
 b.  Add the Shape File (tabblock20.shp)
 
-    - Click \"Add\" again.
+- Click \"Add\" again.
 
-    - Select \"Spatial File\" as the file type.
+- Select \"Spatial File\" as the file type.
 
-    - Navigate to the where you have the tabblock folder saved.
+- Navigate to the where you have the tabblock folder saved.
 
-    - Select tabblock20.shp
+- Select tabblock20.shp
 
-    - Click "Open"
+- Click "Open"
 
 ![Add_ShapeFile](/Reproducibility_Documents/Toy_Data_TableauSheet/images/Instructions_Linking_ToyData_Tableau_imgs/Add_ShapeFile.png)
 
