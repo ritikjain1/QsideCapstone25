@@ -74,7 +74,7 @@ To make sure your Excel is installed correctly, please follow the below
 instructions to open a practice excel sheet.
 
 1.  Download the
-    [Sample_Excel.xlsx](https://michiganstate.sharepoint.com/:x:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Toy_Dataset/Sample_Excel.xlsx?d=wc5dfca40a56c4996a52ce1a0148600e4&csf=1&web=1&e=Ex01M9)
+    [Sample_Excel.xlsx](/Reproducibility_Documents/Toy_Dataset/Sample_Excel.xlsx)
 
 2.  Launch Excel and click on \"File\" \> \"Open.\"
 
