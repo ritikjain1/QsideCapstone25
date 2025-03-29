@@ -1,4 +1,4 @@
-Instructions for creating Toy Data set specific Tableau sheets
+# Instructions for creating Toy Data set specific Tableau sheets
 
 To begin linking our toy data in Tableau, we need access to specific
 software and files on your computer. First, ensure that Tableau Public
