@@ -3,15 +3,15 @@ Instructions for creating Toy Data set specific Tableau sheets
 To begin linking our toy data in Tableau, we need access to specific
 software and files on your computer. First, ensure that Tableau Public
 is installed on your machine. Please refer to the installation guide
-[Installing_Tableau.docx](https://michiganstate.sharepoint.com/:w:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Tableau/Installing_Tableau.docx?d=w7d347047f7124eb7a46f7fe31214c524&csf=1&web=1&e=NoUXyN)
+[Installing_Tableau.docx](/Reproducibility_Documents/Tableau/Installing_Tableau.md)
 for detailed instructions on this topic.
 
 Once Tableau is installed, make sure you have the following files
 downloaded to your computer:
 
-[Student_Toy_data.xlsx](https://michiganstate.sharepoint.com/:x:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Toy_Dataset/Student_Toy_data.xlsx?d=w69dfa650517a49639e6bc556a33a0a96&csf=1&web=1&e=wjWtAM)
+[Student_Toy_data.xlsx](/Reproducibility_Documents/Toy_Dataset/Student_Toy_data.xlsx)
 
-[School_GEOID_Mapping.xlsx](https://michiganstate.sharepoint.com/:x:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Toy_Data_TableauSheets/School_GEOID_Mapping.xlsx?d=wf92676f0906d4231be0cdf2b9916f7bc&csf=1&web=1&e=bq25I5)
+[School_GEOID_Mapping.xlsx](/Reproducibility_Documents/Toy_Data_TableauSheet/School_GEOID_Mapping.xlsx)
 
 [tl_2023_17_tabblock20
 folder](https://michiganstate.sharepoint.com/:f:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Toy_Data_TableauSheets/tl_2023_17_tabblock20?csf=1&web=1&e=7DQTca)
