@@ -1,10 +1,10 @@
 # About QSIDE's Toy Data
 
 This is the link to access our [toy
-data](https://michiganstate.sharepoint.com/:x:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Toy_Dataset/Student_Toy_data.xlsx?d=w69dfa650517a49639e6bc556a33a0a96&csf=1&web=1&e=SZLrf6).
+data](/Reproducibility_Documents/Toy_Dataset/Student_Toy_data.xlsx).
 
 We followed the
-[Installing_Excel.docx](https://michiganstate.sharepoint.com/:w:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Toy_Dataset/Installing_Excel.docx?d=wdc0506b050f24cf5827ef242fee686c3&csf=1&web=1&e=TBwnZk)
+[Installing_Excel.docx](/Reproducibility_Documents/Toy_Dataset/Installing_Excel.md)
 to create a new Excel sheet for our toy data. We created multiple sheets
 in order to maintain organization with all of the data that we were
 generating.
@@ -17,7 +17,7 @@ Illinois schools and 80 fake excused absence letters to mimic real-world
 attendance records. All the variables that are included within our toy
 dataset were discussed prior with our community partners, listed in the
 [MSU - ACT NOW Data
-Map](https://docs.google.com/spreadsheets/d/1JXQa1UJz7rqCv2j2kmfTo1-sv1kV0tm0Cg5psaEIetI/edit?usp=sharing)
+Map](/Reproducibility_Documents/Toy_Dataset/MSU-ACTNOWDataMap.xlsx)
 under the "School Presence Data Map" sheet.
 
 ![About_QSIDE_ToyData](/Reproducibility_Documents/Toy_Dataset/images/About_QSIDES_ToyData_imgs/About_QSIDE_ToyData.png)
@@ -29,12 +29,12 @@ and adjusted the data to better fit our needs.
 With a clear framework of required variables and values, we leveraged
 ChatGPT to generate randomized data for most columns and sheets. A
 document detailing the prompts used is available
-[here](https://michiganstate.sharepoint.com/:w:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Toy_Dataset/Chatgpt_Prompts.docx?d=w73865d9c968645f3b81d68fb55af4bfd&csf=1&web=1&e=1d2vAH).
+[here](/Reproducibility_Documents/Toy_Dataset/Chatgpt_Prompts.md).
 Student addresses and real Illinois schools were manually generated.
 
 Once the toy data set was created, we followed the "Exporting Excel
 files" found within our
-[Installing_Excel.docx](https://michiganstate.sharepoint.com/:w:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/Reproducibility_Documents/Toy_Dataset/Installing_Excel.docx?d=wdc0506b050f24cf5827ef242fee686c3&csf=1&web=1&e=TBwnZk)
+[Installing_Excel.docx](/Reproducibility_Documents/Toy_Dataset/Installing_Excel.md)
 to export and save it locally. The toy dataset Excel file was then used
 to extract the GeoIDs and mapping in Tableau.
 
