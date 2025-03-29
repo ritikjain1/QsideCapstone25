@@ -145,7 +145,7 @@ The code works mainly the same as the first 2 code scripts but here are the key 
 
     c. Adjust visualization settings to properly display the schools on a map. 
 
-    d. How to fully operate this in tableau is on Instructions_Linking_ToyData_Tableau.docx 
+    d. How to fully operate this in tableau is on [Instructions_Linking_ToyData_Tableau.md](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/Toy_Data_TableauSheet/Instructions_Linking_ToyData_Tableau.md)
 
  
 
