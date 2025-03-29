@@ -1,4 +1,4 @@
-Testing US Census API
+##Testing US Census API
 
 This example shows how to take one specific address and get the corresponding GEOID using the U.S. Census Geocoder API for testing purposes to make sure the request works. 
 **This part of the instructions is not necessary but just for testing purposes**
