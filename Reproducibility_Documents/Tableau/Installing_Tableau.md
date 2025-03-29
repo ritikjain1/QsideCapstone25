@@ -5,14 +5,12 @@ How to install Tableau:
 
     -   Click on "Go to Tableau Public"
 
-> ![](/media/image5.png){width="5.208333333333333in"
-> height="2.33707239720035in"}
+          ![TableauPublic_Homepage](/Reproducibility_Documents/Tableau/images/Installing_Tableau_imgs/TableauPublic_Homepage.png)
 
 -   Hover over "Create" and then click the "Download Tableau Desktop
     Public Edition" option
 
-![](/media/image6.png){width="5.5218066491688536in"
-height="1.8936964129483815in"}
+      ![DownloadTableauDesktop](/Reproducibility_Documents/Tableau/images/Installing_Tableau_imgs/DownloadTableauDesktop.png)
 
 2.  Create a Tableau account
 
@@ -24,37 +22,32 @@ height="1.8936964129483815in"}
 
         i.  Signing up:
 
-            -   To sign up, simply fill in the information on the
+            -  To sign up, simply fill in the information on the
                 website then click on "Download the app"
 
-![](/media/image7.png){width="4.260555555555555in"
-height="3.0793438320209976in"}
+          ![Tableau_Signup](/Reproducibility_Documents/Tableau/images/Installing_Tableau_imgs/Tableau_Signup.png)
 
-ii. Signing into an existing Tableau account:
+        ii. Signing into an existing Tableau account:
 
-    -   To sign in, click on the "sign in"
+            -  To sign in, click on the "sign in"
+      ![Tableau_Signin1](/Reproducibility_Documents/Tableau/images/Installing_Tableau_imgs/Tableau_Signin1.png)
+            -   You will then be prompted to this sign in page
 
-![](/media/image8.png){width="4.21875in" height="3.143779527559055in"}
+              ![Tableau_Signin2](/Reproducibility_Documents/Tableau/images/Installing_Tableau_imgs/Tableau_Signin2.png)
 
--   You will then be prompted to this sign in page
+            -   Once you are signed in, you will see your name in the top right of
+                your screen.
+            
+            -   Select the role that best fits your use of the Tableau application
+                (Personal User, Researcher, Student, or Teacher/Educator)
+            
+            -   Then click "Download the app"
 
-![](/media/image9.png){width="4.88828302712161in" height="2.875in"}
+              ![Download_App_Button](/Reproducibility_Documents/Tableau/images/Installing_Tableau_imgs/Download_App_Button.png)
 
--   Once you are signed in, you will see your name in the top right of
-    your screen.
+            -   There is a possibility that this popup will occur
 
--   Select the role that best fits your use of the Tableau application
-    (Personal User, Researcher, Student, or Teacher/Educator)
-
--   Then click "Download the app"
-
-![](/media/imagea.png){width="5.499199475065617in"
-height="2.9787325021872264in"}
-
--   There is a possibility that this popup will occur
-
-![](/media/imageb.png){width="5.666666666666667in"
-height="0.8445516185476816in"}
+              ![PossiblePopup](/Reproducibility_Documents/Tableau/images/Installing_Tableau_imgs/PossiblePopup.png)    
 
 i.  This popup will require you to know the operating system that your
     > computer is running
@@ -65,8 +58,7 @@ i.  This popup will require you to know the operating system that your
 
     -   Click on "About this Mac"
 
-![](/media/imagec.png){width="2.8905282152230973in"
-height="3.0036811023622048in"}
+  ![AboutThisMac](/Reproducibility_Documents/Tableau/images/Installing_Tableau_imgs/AboutThisMac.png)
 
 -   You will then get this pop up
 
@@ -74,15 +66,13 @@ height="3.0036811023622048in"}
 
     -   If it says "Intel Core", you will select the "Mac (Intel)"
         option on the popup
-
-> ![](/media/imaged.png){width="1.2788801399825023in"
-> height="2.4479166666666665in"}
+        
+  ![Maci9Chip](/Reproducibility_Documents/Tableau/images/Installing_Tableau_imgs/Maci9Chip.png)
 
 -   If it says "M#", you will select the "Mac (Apple Silicon)" option on
     the popup
 
-> ![](/media/image.jpg){width="1.8922320647419073in"
-> height="2.9066983814523186in"}
+  ![MacM1Chip](/Reproducibility_Documents/Tableau/images/Installing_Tableau_imgs/MacM1Chip.png)
 
 -   If you are downloading Tableau Public on a Windows computer, you can
     select the "Windows" option on the popup
@@ -90,29 +80,26 @@ height="3.0036811023622048in"}
 3.  Once you have successfully downloaded Tableau Public, you will see
     it appear in your downloads.
 
-![](/media/imagee.png){width="3.2754735345581802in"
-height="1.5626115485564305in"}
+  ![Downloaded_DMG](/Reproducibility_Documents/Tableau/images/Installing_Tableau_imgs/Downloaded_DMG.png)
 
 4.  Open the downloaded installer by double clicking on the file
     (TableauDesktop-XX.exe for Windows or TableauDesktop-XX.dmg for
     Mac). A window will popup as shown below, double click on the
     Tableau Public.pkg
 
-> ![](/media/imagef.png){width="4.708333333333333in"
-> height="3.161525590551181in"}
+  ![TableauPublic_Square](/Reproducibility_Documents/Tableau/images/Installing_Tableau_imgs/TableauPublic_Square.png)
 
 5.  Follow the on-screen instructions to complete the installation.
 
-![](/media/image10.png){width="4.435811461067367in" height="3.15625in"}
+  ![Installing_Tableau1](/Reproducibility_Documents/Tableau/images/Installing_Tableau_imgs/Installing_Tableau1.png)
 
-![](/media/image11.png){width="4.567567804024497in" height="3.25in"}
+  ![Installing_Tableau2](/Reproducibility_Documents/Tableau/images/Installing_Tableau_imgs/Installing_Tableau2.png)
 
 6.  Once installed, open Tableau Desktop. If your screen now looks
     similar to the one below, you have successfully installed Tableau
     Public.
 
-![](/media/image12.png){width="5.885416666666667in"
-height="2.9804352580927382in"}
+  ![Tableau_Desktop](/Reproducibility_Documents/Tableau/images/Installing_Tableau_imgs/Tableau_Desktop.png)
 
 Now that you have Tableau downloaded, you can use the following sources
 to learn more about the capabilities of Tableau and practice your
