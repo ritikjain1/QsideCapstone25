@@ -1,4 +1,4 @@
-Qside's Reproducibility Documentation
+# Qside's Reproducibility Documentation
 
 This document provides a comprehensive guide to reproducing each figure
 (mainly Tableau sheets) included in our project, detailing the steps,I
@@ -19,7 +19,7 @@ unexcused absences. Each figure in our project is accompanied by a
 corresponding instruction file to ensure complete transparency and
 reproducibility.
 
-[The Toy Dataset]{.underline}
+### <ins>The Toy Dataset</ins>
 
 The toy dataset was created due to the lack of real data, serving as a
 structured example to guide future data collection. It consists of five
@@ -62,8 +62,8 @@ Additionally, the dataset is integrated into multiple Tableau sheets
 found on our Tableau Public:
 <https://public.tableau.com/app/profile/ritik.jain1728/vizzes>
 
-[Extracting GeoIDs using US Census API and Extracting Longitude and
-Latitude Values]{.underline}
+### <ins>Extracting GeoIDs using US Census API and Extracting Longitude and
+Latitude Values</ins>
 
 While working with the toy dataset, we identified the need to obtain
 GeoIDs to accurately map schools in Tableau. Since our dataset included
@@ -114,7 +114,7 @@ map of Illinois. Additionally, the dataset is integrated into multiple
 Tableau sheets found on our Tableau Public:
 <https://public.tableau.com/app/profile/ritik.jain1728/vizzes>
 
-[Installing Tableau]{.underline}
+### <ins>Installing Tableau</ins>
 
 We are using Tableau to create visualizations that will help identify
 geographical trends in school absences. By mapping school locations and
@@ -147,7 +147,7 @@ storyboard](https://michiganstate.sharepoint.com/:p:/r/sites/Section_SS25-CMSE-4
 and our [MVP storyboard
 video.](https://michiganstate.sharepoint.com/:v:/r/sites/Section_SS25-CMSE-495-001-225215054-EL-32-A26-QSIDE/Shared%20Documents/QSIDE/Project_deliverables/QSIDE-CMSE495_MVP_Presentation_Video.mp4?csf=1&web=1&e=bU1dQj)
 
-[Creating visualizations of the Toy Dataset in Tableau]{.underline}
+### <ins>Creating visualizations of the Toy Dataset in Tableau</ins>
 
 Bringing together our toy dataset, the Census API for retrieving GeoIDs
 and Longitudes/Latitudes, and Tableau for visualization, we have created
