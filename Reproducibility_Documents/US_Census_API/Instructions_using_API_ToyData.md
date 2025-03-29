@@ -25,13 +25,13 @@ Here how the code works:
 
         ii. To do this on a Mac:  
 
-            1. Open Finder and navigate to the location of your toy dataset. Use a two-finger click (or right-click) on the file icon, then select “Get Info” from the menu. In the information window that appears, look for the section labeled “Where,” which shows the folder path to the file. Copy that entire path. After pasting it into your code or document, add a slash at the end of the path and then type the exact name of your dataset file as it appears on your computer. For example: “.../Community partners/Student_Toy_data.xlsx”.  
-
- 
+            1. Open Finder and navigate to the location of your toy dataset. Use a two-finger click (or right-click) on the file icon, then select “Get Info” from the menu. In the information window that appears, look for the section labeled “Where,” which shows the folder path to the file. Copy that entire path. After pasting it into your code or document, add a slash at the end of the path and then type the exact name of your dataset file as it appears on your computer. For example: “.../Community partners/Student_Toy_data.xlsx”.
+   
+<img width="702" alt="Screenshot 2025-03-28 at 8 38 56 AM" src="https://github.com/user-attachments/assets/93a6c6fa-e82c-4670-a34b-737044b67b13" />
 
             2. If this does not work, you can try adding ~ before your desktop to get this code working. Ex: “~/desktop/Student_Toy_data.xlsx”. 
+ <img width="1096" alt="Screenshot 2025-03-28 at 8 29 27 AM" src="https://github.com/user-attachments/assets/85f82634-e527-4409-8c91-f3f58c4a0fee" />
 
- 
 
     b.It extracts data from the "SchoolDemographics" sheet, which contains school names, addresses, cities, and states. 
 
@@ -69,9 +69,19 @@ Here how the code works:
 
         i. In the line that starts with “geoid_df.to_excel”, replace the current file path with the path you want the GEOID file to be downloaded too. 
 
-        ii. On a Mac, locate the folder where you'd like your output Excel file to be saved. Open Finder and navigate to that folder. Then, two-finger click (or right-click) anywhere in the folder (or on any file inside it), and select “Get Info.” In the window that pops up, look at the “Where” section to find the full file path. Copy this folder path. Once you’ve pasted it into your code, add a slash (/) at the end, then type in the name of your output file “School_GEOID_Mapping.xlsx”, make sure to keep the file name as we have it. For example: /Community partners/School_GEOID_Mapping.xlsx 
+        ii. On a Mac, locate the folder where you'd like your output Excel file to be saved. Open Finder and navigate to that folder. Then, two-finger click (or right-click) anywhere in the folder (or on any file inside it), and select “Get Info.” In the window that pops up, look at the “Where” section to find the full file path. Copy this folder path. Once you’ve pasted it into your code, add a slash (/) at the end, then type in the name of your output file “School_GEOID_Mapping.xlsx”, make sure to keep the file name as we have it. For example: /Community partners/School_GEOID_Mapping.xlsx
+
+<img width="854" alt="Screenshot 2025-03-28 at 8 38 21 AM" src="https://github.com/user-attachments/assets/2f1e46af-9560-4e99-a18a-d345d7491216" />
+
+<img width="702" alt="Screenshot 2025-03-28 at 8 38 56 AM" src="https://github.com/user-attachments/assets/22a39b3e-271b-4c9c-813b-6ce2192316dd" />
+
+<img width="1039" alt="Screenshot 2025-03-28 at 8 39 19 AM" src="https://github.com/user-attachments/assets/da2c37bd-a1f7-4f78-9346-a70b12bbd6b5" />
+
         
-        iii. If this does not work, you can try adding ~ before your desktop to get this code working. Ex: “~/desktop/Student_Toy_data.xlsx”. 
+        iii. If this does not work, you can try adding ~ before your desktop to get this code working. Ex: “~/desktop/Student_Toy_data.xlsx”.
+
+<img width="1068" alt="Screenshot 2025-03-28 at 8 41 24 AM" src="https://github.com/user-attachments/assets/4d72ca88-bc1e-40cf-959b-784c205ddf0d" />
+
         
 If you want to just get the geoids excel sheet just click on this link: [School_GEOID_Mapping.xlsx](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/US_Census_API/School_GEOID_Mapping.xlsx)
 
