@@ -18,10 +18,10 @@ b.  Sign up and create an account
     
 c.  Use ChatGPT without being logged in \*this option will not save any prompt/answer history
 
+## 3.  You are now able to use ChatGPT
 
-## 3.  You are now able to use ChatGPT.
-
-## 4.  To Test that ChatGPT is working, type this into the "Ask Anything" bar
+## 4.  Test ChatGPT 
+To Test that ChatGPT is working, type this into the "Ask Anything" bar
 
 ![ChatGPT_Setup_PromptWindow](/Reproducibility_Documents/Toy_Dataset/images/ChatGPT_Setup_imgs/ChatGPT_Setup_PromptWindow.png)
 
@@ -29,4 +29,4 @@ c.  Use ChatGPT without being logged in \*this option will not save any prompt/a
 
 ![ChatGPT_Setup_Testing](/Reproducibility_Documents/Toy_Dataset/images/ChatGPT_Setup_imgs/ChatGPT_Setup_Testing.png)
 
-## You are now able to use ChatGPT to assist in creating the Toy Dataset.
+You are now able to use ChatGPT to assist in creating the Toy Dataset.
