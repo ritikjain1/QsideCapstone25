@@ -9,8 +9,7 @@ Link to example session:
 
 <https://chatgpt.com/share/67d927eb-c6ac-8002-a75a-31ba16bf6cf5>
 
-<ins>Creating the 25 fake students in the StudentDemographics
-sheet </ins>
+## Creating the 25 fake students in the StudentDemographics sheet
 
 Prompt: "Can you generate a COPY-ABLE Excel-compatible dataset of <mark>5 fake
 students</mark> with columns for StudentID, StudentFirstName, StudentLastName,
@@ -25,7 +24,7 @@ sheet."
 \*Note: Since we needed real Illinois addresses, we manually inputted
 the address and zip code after searching on Zillow.
 
-<ins>Creating the IndividualSchoolTrajectory Data</ins>
+## Creating the IndividualSchoolTrajectory Data
 
 Prompt: "Generate a tab-separated values (TSV) table for Excel with the
 following columns: StudentID (should correspond to the fake student ID),
@@ -39,7 +38,7 @@ without modifications. Some students should have multiple physical
 disabilities. There should also be some students with multiple
 neurodivergent conditions."
 
-<ins>Generating SchoolDemographics data</ins>
+## Generating SchoolDemographics data
 
 Prompt: "Generate a tab-separated values (TSV) dataset for Excel with
 the following columns: TotalSchoolDays, SchoolSize,
@@ -55,7 +54,7 @@ City, State, ZipCode, SchoolDistrict, SchoolType, EducationLevel, and
 SchoolName was manually added. This information was sourced directly
 from each school\'s website
 
-<ins>Generating StudentSchoolPresence data</ins>
+## Generating StudentSchoolPresence data
 
 Prompt: "Generate a tab-separated values (TSV) dataset for Excel with
 the following columns: StudentID, SchoolID, DaysPresent,
