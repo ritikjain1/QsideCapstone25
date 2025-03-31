@@ -37,8 +37,8 @@ This simple tableau sheet displays the population of each state.
 
   ![Add_SpatialFile](/Reproducibility_Documents/Tableau/images/Tableau_StatePop_imgs/Add_SpatialFile.png)
 
--   Add in
-    "tract_shapes_2020.shp"
+-   Add in "tract_shapes_2020.shp"
+
       ![Select_ShapeFile](/Reproducibility_Documents/Tableau/images/Tableau_StatePop_imgs/Select_ShapeFile.png)
 
 -   To add in the tract names, click on "Add" once again, then click "Text file" and select "tract_names_2020.csv"
