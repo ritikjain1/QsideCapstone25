@@ -1,7 +1,7 @@
 # Qside's Reproducibility Documentation
 
 This document provides a comprehensive guide to reproducing each figure
-(mainly Tableau sheets) included in our project, detailing the steps,I
+(mainly Tableau sheets) included in our project, detailing the steps,
 code, and tools used. We include instruction files that outline how each
 Tableau sheet was generated. Our documentation covers key aspects of the
 project, starting with the creation of a **toy dataset**, including a
