@@ -107,7 +107,8 @@ instructions to open a practice excel sheet.
 2.  Then click on the "Blank Workbook":
 
     ![Excel_New_BlankWorkbook](/Reproducibility_Documents/Toy_Dataset/images/Installing_Excel_imgs/Excel_New_BlankWorkbook.png)
-\*You can click any of the provided Excel
+\
+*You can click any of the provided Excel
 template, however, for creating the Toy Dataset, you will need to select
 "Blank Workbook"
 
