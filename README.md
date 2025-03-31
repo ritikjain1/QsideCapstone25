@@ -24,6 +24,8 @@ This project is part of a broader effort by the QSIDE Institute and its Act-NOW 
 
 [.gitignore](.gitignore): Exclude files and directories that do not need to be tracked in the repository.
 
+[Reproducibility.md](/Reproducibility.md): Table of contents regarding how to reproduce each compnonet of our project.
+
 # License
 
 This project is open-source and licensed under the MIT License.
