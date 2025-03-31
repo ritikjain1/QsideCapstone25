@@ -61,8 +61,7 @@ Additionally, the dataset is integrated into multiple Tableau sheets
 found on our Tableau Public:
 <https://public.tableau.com/app/profile/ritik.jain1728/vizzes>
 
-### <ins>Extracting GeoIDs using US Census API and Extracting Longitude and
-Latitude Values</ins>
+### <ins>Extracting GeoIDs using US Census API and Extracting Longitude and Latitude Values</ins>
 
 While working with the toy dataset, we identified the need to obtain
 GeoIDs to accurately map schools in Tableau. Since our dataset included
