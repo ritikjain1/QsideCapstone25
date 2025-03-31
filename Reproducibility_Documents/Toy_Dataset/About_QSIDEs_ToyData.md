@@ -131,7 +131,7 @@ Decatur, and Peoria).
 
         -   This is the Socioeconomic status of the student. These are
             categorized into (High, Middle, or Low) categories. We used
-            [Wikipedia](http://en.wikipedia.org/wiki/Socioeconomic_status#:~:text=Socioeconomic%20status%20is%20typically%20broken,and%20occupation)%20can%20be%20assessed.)
+            [Wikipedia](http://en.wikipedia.org/wiki/Socioeconomic_status#:~:text=Socioeconomic%20status%20is%20typically%20broken,and%20occupation%20can%20be%20assessed.)
             to determine these categories. These categories were also
             discussed and agreed upon with the community partners.
 
