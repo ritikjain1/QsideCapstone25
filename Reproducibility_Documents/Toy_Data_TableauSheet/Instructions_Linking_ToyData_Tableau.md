@@ -14,7 +14,7 @@ downloaded to your computer:
 [School_GEOID_Mapping.xlsx](/Reproducibility_Documents/Toy_Data_TableauSheet/School_GEOID_Mapping.xlsx)
 
 [tl_2023_17_tabblock20
-folder](Reproducibility_Documents/Toy_Data_TableauSheet/Download_tl_2023_17_tabblock20.md)
+folder](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/Toy_Data_TableauSheet/Download_tl_2023_17_tabblock20.md)
 
 ## Step 1: Adding our data sources into Tableau
 
