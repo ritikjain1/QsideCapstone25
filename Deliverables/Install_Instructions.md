@@ -111,4 +111,7 @@ Our visualizations and data analysis have been primarily completed in Tableau. T
 
 ![Tableau_Desktop](/docs/images/Demo_File_Located.png)
 
-3. Double click on the icon, then Tableau Public will open automatically with the workbook loaded. 
+3. Double click on the icon, then Tableau Public will open automatically with the workbook loaded.
+4. Once Tableau is opened, the screen should look like this. The Tableau map visualization is open and can be interacted with via the mouse.
+
+![Tableau_Desktop](/docs/images/Demo_StatePopulation.png)
