@@ -53,9 +53,8 @@ creating a toy dataset.\*
 The toy dataset figures are used throughout various stages of our
 project to illustrate data organization and analysis. Specifically,
 snippets of the toy dataset appear in the [MVP
-storyboard](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Qside-CMSE495_MVP_Storyboard.pdf)
-and [MVP storyboard
-video](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Project_Presentation_Videos.md),
+storyboard](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Qside-CMSE495_MVP_Storyboard.pdf), [MVP storyboard
+video](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Project_Presentation_Videos.md), [Final project storyboard](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Qside-CMSE495_Final_Presentation_Plan.pdf), and [Final project storyboard video](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Project_Presentation_Videos.md)
 where they help visualize the structure and application of our dataset.
 Additionally, the dataset is integrated into multiple Tableau sheets
 found on our Tableau Public:
@@ -104,9 +103,8 @@ The values gained from running these codes and adding onto our Toy Data
 set are used to help map our toy data geographically onto Tableau.
 Specifically, visualizations using the GeoID and Longitude/Latitude
 values appear in the [MVP
-storyboard](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Qside-CMSE495_MVP_Storyboard.pdf)
-and [MVP storyboard
-video](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Project_Presentation_Videos.md),
+storyboard](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Qside-CMSE495_MVP_Storyboard.pdf), [MVP storyboard
+video](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Project_Presentation_Videos.md), [Final project storyboard](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Qside-CMSE495_Final_Presentation_Plan.pdf), and [Final project storyboard video](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Project_Presentation_Videos.md)
 where they help visualize the different school locations onto a Tableau
 map of Illinois. Additionally, the dataset is integrated into multiple
 Tableau sheets found on our Tableau Public:
@@ -141,9 +139,8 @@ Reproducibility Documents:
 
 The Tableau practice visualization of the state populations is used in
 our [MVP
-storyboard](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Qside-CMSE495_MVP_Storyboard.pdf)
-and our [MVP storyboard
-video.](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Project_Presentation_Videos.md)
+storyboard](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Qside-CMSE495_MVP_Storyboard.pdf), [MVP storyboard
+video](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Project_Presentation_Videos.md), [Final project storyboard](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Qside-CMSE495_Final_Presentation_Plan.pdf), and [Final project storyboard video](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Project_Presentation_Videos.md)
 
 ### <ins>Creating visualizations of the Toy Dataset in Tableau</ins>
 
@@ -174,9 +171,8 @@ folder](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_
 
 The visualizations created by following the above instructions appear in
 the [MVP
-storyboard](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Qside-CMSE495_MVP_Storyboard.pdf)
-and [MVP storyboard
-video](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Project_Presentation_Videos.md),
+storyboard](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Qside-CMSE495_MVP_Storyboard.pdf), [MVP storyboard
+video](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Project_Presentation_Videos.md), [Final project storyboard](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Qside-CMSE495_Final_Presentation_Plan.pdf), and [Final project storyboard video](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Project_Presentation_Videos.md)
 where they help visualize the different school locations onto a Tableau
 map of Illinois. Additionally, the dataset is integrated into multiple
 Tableau sheets found on our Tableau Public:
