@@ -4,7 +4,7 @@ This is the link to access our [toy
 data](/Reproducibility_Documents/Toy_Dataset/Student_Toy_data.xlsx).
 
 We followed the
-[Installing_Excel.docx](/Reproducibility_Documents/Toy_Dataset/Installing_Excel.md)
+[Installing_Excel.md](/Reproducibility_Documents/Toy_Dataset/Installing_Excel.md)
 to create a new Excel sheet for our toy data. We created multiple sheets
 in order to maintain organization with all of the data that we were
 generating.
