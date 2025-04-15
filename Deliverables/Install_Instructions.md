@@ -1,6 +1,6 @@
 # Install Instructions 
 
-Our visualizations and data analysis have been primarily completed in Tableau. To access our work, including the Demo_StatePopulation.twbx file, you will need to have Tableau installed on your device. Follow the "Installing Tableau" instructions below to set up Tableau. Once installed, download the Demo_StatePopulation.twbx file and open it—Tableau should launch automatically with the workbook ready for use. 
+Our visualizations and data analysis have been primarily completed in Tableau. To access our work, including the Demo_StatePopulation.twbx file, you will need to have Tableau installed on your device. Follow the "Installing Tableau" instructions below to set up Tableau. Once installed, you will be able to follow along our [Reproduciblity.md](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility.md). 
 
 <ins>How to install Tableau:</ins>
 
@@ -103,15 +103,4 @@ Our visualizations and data analysis have been primarily completed in Tableau. T
 
   ![Tableau_Desktop](/Reproducibility_Documents/Tableau/images/Installing_Tableau_imgs/Tableau_Desktop.png)
 
-<ins>Loading the Demo_StatePopulation.twbx file onto Tableau:</ins> 
-
-1. Download the Demo_StatePopulation.twbx file 
-
-2. Locate where the file is saved 
-
-![Tableau_Desktop](/docs/images/Demo_File_Located.png)
-
-3. Double click on the icon, then Tableau Public will open automatically with the workbook loaded.
-4. Once Tableau is opened, the screen should look like this. The Tableau map visualization is open and can be interacted with via the mouse.
-
-![Tableau_Desktop](/docs/images/Demo_StatePopulation.png)
+Now navigate to our [Reproduciblity.md](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility.md) to see how the team created our figures and reproduce them yourselves!
