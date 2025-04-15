@@ -1,5 +1,6 @@
-Now that you have installed Tableau, you can reproduce our testing
-tableau sheet
+## Recreating the State Population Tableau Sheet
+
+Once you have installed Tableau, following our [Install_Instructions.md](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Install_Instructions.md), you can reproduce our testing tableau sheet
 [Demo_StatePopulation_TableauPublic.](https://public.tableau.com/app/profile/gabriella.stickney/viz/Demo_StatePopulation/Sheet1)
 This simple tableau sheet displays the population of each state.
 
