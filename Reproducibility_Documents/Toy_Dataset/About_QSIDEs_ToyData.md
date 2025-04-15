@@ -34,7 +34,7 @@ Student addresses and real Illinois schools were manually generated.
 
 Once the toy data set was created, we followed the "Exporting Excel
 files" found within our
-[Installing_Excel.docx](/Reproducibility_Documents/Toy_Dataset/Installing_Excel.md)
+[Installing_Excel.md](/Reproducibility_Documents/Toy_Dataset/Installing_Excel.md)
 to export and save it locally. The toy dataset Excel file was then used
 to extract the GeoIDs and mapping in Tableau.
 
