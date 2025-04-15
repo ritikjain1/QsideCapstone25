@@ -127,7 +127,7 @@ integrating our own dataset for analysis.
 
 Install Instructions:
 
-[Installing_Tableau.md](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/Tableau/Installing_Tableau.md)
+[Install_Instructions.md](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Install_Instructions.md)
 
 Reproducibility Documents:
 
@@ -157,7 +157,7 @@ trends in student absences, and incorporate relevant metrics.
 
 Install Instructions:
 
-[Installing_Tableau.md](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/Tableau/Installing_Tableau.md)
+[Install_Instructions.md](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Install_Instructions.md)
 
 Reproducibility Documents:
 
