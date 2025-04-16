@@ -12,6 +12,26 @@ This project is part of a broader effort by the QSIDE Institute and its Act-NOW 
 
 3.) Visualizing the data in a way that is accessible to the public in an open source manner
 
+# Navigating this Repository 
+If you are looking for *particular documents that are meant for the CMSE 495 Course*, navigate to the Deliverables section linked below in the Repository Guide. 
+
+If you are looking to begin our project's Reproducibility, please start with the [Reproducibility Documentation Guide](/Reproducibility.md). 
+
+If you are looking to go through the Reproducibility Documents, navigate to the Reproducibility_Documents directory linked below in the Repository Guide. 
+
+Regarding the Reproducibility, here are more specific linked directories depending on what you are looking for:
+- [Tableau Reproducibility](/Reproducibility_Documents/Tableau)
+- [Toy Data Within Tableau Reproducibility](/Reproducibility_Documents/Toy_Data_TableauSheet)
+- [Toy Data Creation Reproducibility](/Reproducibility_Documents/Toy_Dataset)
+- [US_Census_API Reproducibility](/Reproducibility_Documents/US_Census_API)
+
+If you are looking for the original images used throughout this repository, they are located [here](/docs/images).
+
+All other markdown files will be linked below within the Repository Guide.
+
+
+
+
 # Repository Guide
 
 [Deliverables](/Deliverables): All our project deliverables reside inside this folder, including Storyboards and Video explaning the project. 
