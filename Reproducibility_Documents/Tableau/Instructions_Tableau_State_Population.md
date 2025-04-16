@@ -2,7 +2,9 @@
 
 Once you have installed Tableau, following our [Install_Instructions.md](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Install_Instructions.md), you can reproduce our testing tableau sheet
 [Demo_StatePopulation_TableauPublic.](https://public.tableau.com/app/profile/gabriella.stickney/viz/Demo_StatePopulation/Sheet1)
-This simple tableau sheet displays the population of each state.
+This simple tableau sheet displays the population of each state. The Demo_StatePopulation_TableauPublic file is also available for download [here](https://gofile.io/d/7ARCJT)
+
+The steps below are the steps that the team took to creating the Demo_StatePopulation_TableauPublic file.
 
 1.  Loading a Blank Map and Adding CSV Files and Shape Files
 
