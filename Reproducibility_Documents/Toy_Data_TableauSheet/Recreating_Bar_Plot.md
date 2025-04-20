@@ -22,7 +22,7 @@ Our first step to recreate this map is adding our data into Tableau and linking 
 dataset in the [Instructions_Linking_ToyData_Tableau](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/Toy_Data_TableauSheet/Instructions_Linking_ToyData_Tableau.md) document (Steps 1 and 2). 
 
 # Step 2: Creating our calculated field 
-The next thing we do to recreate our map is to create a calculated field, so we can click through different variables to see different correlations. We have documentation on how to create a calculated field in the Recreating_Student_GeoIDs_Mutli_Layer _Map document (Step 2). 
+The next thing we do to recreate our map is to create a calculated field, so we can click through different variables to see different correlations. We have documentation on how to create a calculated field in the [Recreating_Student_GeoIDs_Mutli_Layer_Map.md](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/Toy_Data_TableauSheet/Recreating_Student_GeoIDs_Mutli_Layer%E2%80%8B_Map.md) document (Step 2). 
 
 # Step 3: Creating the Visualization 
 
