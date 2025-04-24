@@ -38,8 +38,6 @@ All other markdown files will be linked below within the Repository Guide.
 
 [Reproducibility_Documents](/Reproducibility_Documents): Contains all of the markdown files and data files that are needed to reproduce each of our main components within our final project. Inside the Reproducibility_Documents folder, there are 4 subfolders, broken down by the 4 main componenets of our project.
 
-[docs](/docs): Contains /images which is a folder to hold images relating to our Tableau_OSM_Excel.md, Tableau_OSM_Excel.md which are our install instructions, and our OSMNX_Tutorial folder, which contains our documents for our SCHOLAR Tutorial.
-
 [.gitignore](.gitignore): Exclude files and directories that do not need to be tracked in the repository.
 
 [README.md](README.md): For project overview and instructions.
