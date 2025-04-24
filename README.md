@@ -34,7 +34,7 @@ All other markdown files will be linked below within the Repository Guide.
 
 # Repository Guide
 
-[Deliverables](/Deliverables): All our project deliverables reside inside this folder, including Storyboards and Video explaning the project. 
+[Deliverables](/Deliverables): All our project deliverables reside inside this folder, including storyboards and videos explaning the project. 
 
 [Reproducibility_Documents](/Reproducibility_Documents): Contains all of the markdown files and data files that are needed to reproduce each of our main components within our final project. Inside the Reproducibility_Documents folder, there are 4 subfolders, broken down by the 4 main componenets of our project.
 
