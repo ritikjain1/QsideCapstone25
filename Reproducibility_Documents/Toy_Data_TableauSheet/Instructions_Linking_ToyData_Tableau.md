@@ -16,6 +16,10 @@ downloaded to your computer:
 [tl_2023_17_tabblock20
 folder](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/Toy_Data_TableauSheet/Download_tl_2023_17_tabblock20.md)
 
+**You can also download the [Final Tableau Storyboard workbook](https://gofile.io/d/qANdv6). Once Tableau Public and the listed files above are downloaded and installed, users can download the Tableau workbook and open it within Tableau Public.** 
+
+The below steps are the steps that the team took in order to create the final workbook.
+
 ## Step 1: Adding our data sources into Tableau
 
 Open Tableau, we should see options to connect to a file, navigate to
