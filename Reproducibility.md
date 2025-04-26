@@ -131,6 +131,8 @@ Reproducibility Documents:
 
 [Instructions_Tableau_State_Population.md](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/Tableau/Instructions_Tableau_State_Population.md)
 
+Demo_StatePopulation_TableauPublic workbook file is also available for download [here](https://gofile.io/d/7ARCJT)
+
 [demographic_acs_tract_2018-2022.csv](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/Tableau/demographic_acs_tract_2018-2022.xlsx)
 
 [Shapefiles-20250212T213902Z-001.zip](https://github.com/ritikjain1/QsideCapstone25/tree/main/Reproducibility_Documents/Tableau/Shapefiles)
