@@ -127,11 +127,13 @@ Install Instructions:
 
 [Install_Instructions.md](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Install_Instructions.md)
 
+Tableau Workbooks:
+
+[Demo_StatePopulation_TableauPublic](https://gofile.io/d/7ARCJT)
+
 Reproducibility Documents:
 
 [Instructions_Tableau_State_Population.md](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/Tableau/Instructions_Tableau_State_Population.md)
-
-Demo_StatePopulation_TableauPublic workbook file is also available for download [here](https://gofile.io/d/7ARCJT)
 
 [demographic_acs_tract_2018-2022.csv](https://github.com/ritikjain1/QsideCapstone25/blob/main/Reproducibility_Documents/Tableau/demographic_acs_tract_2018-2022.xlsx)
 
@@ -157,6 +159,10 @@ trends in student absences, and incorporate relevant metrics.
 Install Instructions:
 
 [Install_Instructions.md](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Install_Instructions.md)
+
+Tableau Workbooks:
+
+[Final Tableau Storyboard](https://gofile.io/d/qANdv6)
 
 Reproducibility Documents:
 
