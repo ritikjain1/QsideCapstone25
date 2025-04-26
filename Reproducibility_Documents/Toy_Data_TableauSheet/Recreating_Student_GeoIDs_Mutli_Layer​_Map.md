@@ -1,5 +1,11 @@
 # Recreating Student GeoIDs Multi-Layer Map 
 
+**You can also download the [Final Tableau Storyboard workbook](https://gofile.io/d/qANdv6). Once downloaded, users can download the Tableau workbook and open it within Tableau Public.** 
+
+The below steps are the steps that the team took in order to create the final workbook.
+
+__________________________________________________________________________________________________________
+
 <img width="624" alt="image" src="https://github.com/user-attachments/assets/5a570788-566c-4235-9b53-c83863bc86b3" />
 
 To begin, make sure you have successfully installed Tableau Public following these instructions: [Install_Instructions.md](https://github.com/ritikjain1/QsideCapstone25/blob/main/Deliverables/Install_Instructions.md)
